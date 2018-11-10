@@ -1,0 +1,30 @@
+.Search-Bar {
+  margin: 20px;
+  text-align: center;
+}
+.Search-Bar input {
+  width: 540px;
+  background-color: rgb(247, 242, 242);
+}
+.video-item img {
+  max-width: 75px;
+}
+.video-detail.details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 4 px solid rgb(39, 36, 36);
+  border-radius: 9px;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item {
+  background-color: rgb(247, 242, 242);
+}
+.aligncenter,
+div.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+
+  text-align: center;
+}
